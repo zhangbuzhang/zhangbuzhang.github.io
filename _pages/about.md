@@ -1,11 +1,42 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Who Am I"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am an Assistant Professor in the College of Computer Science at National University of Defense Technology (NUDT). I received my Bachelor and Ph.D. degree at NUDT in 2017 and 2023 respectively. I am a visiting Ph.D. student at University of Illinois at Urbana Champaign from 2019 to 2020. 
+
+I teach computer-related courses and conduct research in the field, striving not to be swept away by the fast-paced technological revolution. I have broad research interests in software systems. To be more specific, my goal is to build reliable and efficient software systems by leveraging traditional methods (configuration management, software testing) and intelligent approaches (AI4SE). 
+
+News
+======
+* Our works on configuration understanding won APSEC'24 Distinguish Paper Award.
+
+* OBFUSEVAL is accepted to ICSE'25 (second cycle)
+
+* Thanos is accepted to ICSE'25 (first cycle)
+
+
+
+Recent Publication
+======
+
+[Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar]()   
+[ICSE 2025](https://conf.researchr.org/home/icse-2025)   
+**Yuanliang Zhang**, Yifan Xie, Shanshan Li, Ke Liu, Chong Wang, Zhouyang Jia, Xiangbing Huang, Jie Song, Chaopeng Luo, Zhizheng Zheng, Rulin Xu, Yitong Liu, Si Zheng, and Xiangke Liao
+
+[Thanos: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing]()   
+[ICSE 2025](https://conf.researchr.org/home/icse-2025)   
+Ying Fu, Zhiyong Wu, **Yuanliang Zhang**, Jie Liang, Jingzhou Fu, Yu Jiang, Shanshan Li and Xiangke Liao
+
+
+
+
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
