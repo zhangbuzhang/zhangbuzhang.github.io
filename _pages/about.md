@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the College of Computer Science at National University of Defense Technology (NUDT). I received my Bachelor and Ph.D. degree at NUDT in 2017 and 2023 respectively. I am a visiting Ph.D. student at University of Illinois at Urbana Champaign from 2019 to 2020. 
+I am an Assistant Professor in the College of Computer Science at National University of Defense Technology (NUDT), where I received my Bachelor and Ph.D. degree in 2017 and 2023 respectively. I am a visiting Ph.D. student at University of Illinois at Urbana Champaign from 2019 to 2020. 
 
-I teach computer-related courses and conduct research in the field, striving not to be swept away by the fast-paced technological revolution. I have broad research interests in software systems. To be more specific, my goal is to build reliable and efficient software systems by leveraging traditional methods (configuration management, software testing) and intelligent approaches (AI4SE). 
+I teach CS-related courses and conduct research in the field, striving not to be swept away by the fast-paced technological revolution. I have broad research interests in software systems. To be more specific, my goal is to build reliable and efficient software systems by leveraging traditional methods (configuration management, software testing) and intelligent approaches (AI4SE). 
 
 News
 ======
@@ -25,15 +25,44 @@ Recent Publication
 ======
 
 [Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar]()   
-[ICSE 2025](https://conf.researchr.org/home/icse-2025)   
-**Yuanliang Zhang**, Yifan Xie, Shanshan Li, Ke Liu, Chong Wang, Zhouyang Jia, Xiangbing Huang, Jie Song, Chaopeng Luo, Zhizheng Zheng, Rulin Xu, Yitong Liu, Si Zheng, and Xiangke Liao
+**ICSE 2025**   
+**Yuanliang Zhang**, Yifan Xie, Shanshan Li, Ke Liu, Chong Wang, Zhouyang Jia, Xiangbing Huang, Jie Song, Chaopeng Luo, Zhizheng Zheng, Rulin Xu, Yitong Liu, Si Zheng, and Xiangke Liao   
+[Paper]() | [Code](https://github.com/zhangbuzhang/ObfusEval) | [Slides]() | [BibTex]()
 
 [Thanos: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing]()   
-[ICSE 2025](https://conf.researchr.org/home/icse-2025)   
-Ying Fu, Zhiyong Wu, **Yuanliang Zhang**, Jie Liang, Jingzhou Fu, Yu Jiang, Shanshan Li and Xiangke Liao
+**ICSE 2025**     
+Ying Fu, Zhiyong Wu, **Yuanliang Zhang**, Jie Liang, Jingzhou Fu, Yu Jiang, Shanshan Li and Xiangke Liao   
+[Paper]() | [Code](https://github.com/Thanos2024/Thanos) | [Slides]() | [BibTex]()
+
+[Who is in Charge here? Understanding How Runtime Configuration Affects Software along with Variables&Constants]()   
+**APSEC 2024**   
+Chaopeng Luo, **Yuanliang Zhang (co-first)**, Haochen He, Zhouyang Jia, Teng Wang, Shulin Zhou, Si Zheng, Shanshan Li   
+[Paper]() | [Code](https://github.com/PCVAnonymous/PCVStudy) | [Slides](/slides/pcv_Study_Talk.pdf) | [BibTex]()   
+**<font color="red">Won Distinguished Paper Award</font>**
+
+[At Which Training Stage Does Code Data Help LLMs Reasoning?](https://arxiv.org/pdf/2309.16298)   
+**ICLR 2024**   
+Yingwei Ma, Yue Liu, Yue Yu, **Yuanliang Zhang**, Yu Jiang, Changjian Wang, Shanshan Li   
+[Paper](https://arxiv.org/pdf/2309.16298) | [Code](https://github.com/yingweima2022/codellm) | [Slides](/slides/ICLR24.pdf) | [BibTex]() 
+
+[An Evolutionary Study of Configuration Design and Implementation in Cloud Systems](https://arxiv.org/pdf/2102.07052)   
+**ICSE 2021**   
+**Yuanliang Zhang**, Haochen He, Owolabi Legunsen, Shanshan Li, Wei Dong, Tianyin Xu   
+[Paper](https://arxiv.org/pdf/2102.07052) | [Code](https://github.com/zhangbuzhang/open-cevo) | [Slides]() | [BibTex]() 
+[Paper]() | [Code](https://github.com/Thanos2024/Thanos) | [Slides]() | [BibTex]()   
+**<font color="red">Won Distinguished Paper Honorable Mention</font>**
 
 
+[Challenges and opportunities: an in-depth empirical study on configuration error injection testing](https://drive.google.com/file/d/1rGm5U5JLvpjkC-hLxOdOO5i2OqOnsg39/view?pli=1)   
+**ISSTA 2021**
+Wang Li, Zhouyang Jia, Shanshan Li, **Yuanliang Zhang**, Teng Wang, Erci Xu, Ji Wang, Xiangke Liao   
+[Paper](https://drive.google.com/file/d/1rGm5U5JLvpjkC-hLxOdOO5i2OqOnsg39/view?pli=1) | [Code](https://github.com/ConfEIT-code/CeitInspector) | [Slides]() | [BibTex]() 
 
+
+[Confinlog: Leveraging software logs to infer configuration constraints](https://arxiv.org/pdf/2103.11561)   
+**ICPC 2021**   
+Shulin Zhou, Xiaodong Liu, Shanshan Li, Zhouyang Jia, **Yuanliang Zhang**, Teng Wang, Wang Li, Xiangke Liao   
+[Paper](https://arxiv.org/pdf/2103.11561) | [Code](https://github.com/zhou-shulin/ConfInLog-Src) | [Slides]() | [BibTex]()
 
 
 
