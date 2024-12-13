@@ -7,9 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the College of Computer Science at National University of Defense Technology (NUDT), where I received my Bachelor and Ph.D. degree in 2017 and 2023 respectively. I am a visiting Ph.D. student at University of Illinois at Urbana Champaign from 2019 to 2020. 
+I am an Assistant Professor in the College of Computer Science at National University of Defense Technology (NUDT). I teach CS-related courses and conduct research in the field, striving not to be swept away by the fast-paced technological revolution. I have broad research interests in software systems. To be more specific, my goal is to build reliable and efficient software systems by leveraging traditional methods (configuration management, software testing) and intelligent approaches (AI4SE). 
 
-I teach CS-related courses and conduct research in the field, striving not to be swept away by the fast-paced technological revolution. I have broad research interests in software systems. To be more specific, my goal is to build reliable and efficient software systems by leveraging traditional methods (configuration management, software testing) and intelligent approaches (AI4SE). 
+Research Interests
+======
+* Configuration Management
+* AI4SE
+* Software Testing
+
+
+Academic Career
+======
+* **Assistant Professor, Collage of Computer Science, NUDT, 2023-Now**   
+
+* **Ph.D., Collage of Computer Science, NUDT, 2017-2023**   
+Advisor: [Xiangke Liao](https://scholar.google.com/citations?user=fEhyQHIAAAAJ&hl=zh-CN) and [Shanshan Li](https://leopard-lab.github.io/)
+
+* **Visiting Student (CSC Sholarship), Department of Computer Science, UIUC, 2019-2020**   
+Advisor: [Tianyin Xu](https://tianyin.github.io/)
+
+* **Bachelor, Collage of Computer Science, NUDT, 2013-2017**   
+
+
 
 News
 ======
@@ -24,10 +43,10 @@ News
 Recent Publication
 ======
 
-[Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar]()   
+[Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar](https://arxiv.org/pdf/2412.08109)   
 **ICSE 2025**   
 **Yuanliang Zhang**, Yifan Xie, Shanshan Li, Ke Liu, Chong Wang, Zhouyang Jia, Xiangbing Huang, Jie Song, Chaopeng Luo, Zhizheng Zheng, Rulin Xu, Yitong Liu, Si Zheng, and Xiangke Liao   
-[Paper]() | [Code](https://github.com/zhangbuzhang/ObfusEval) | [Slides]() | [BibTex]()
+[Paper](https://arxiv.org/pdf/2412.08109) | [Code](https://github.com/zhangbuzhang/ObfusEval) | [Slides]() | [BibTex]()
 
 [Thanos: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing]()   
 **ICSE 2025**     
@@ -49,22 +68,21 @@ Yingwei Ma, Yue Liu, Yue Yu, **Yuanliang Zhang**, Yu Jiang, Changjian Wang, Shan
 **ICSE 2021**   
 **Yuanliang Zhang**, Haochen He, Owolabi Legunsen, Shanshan Li, Wei Dong, Tianyin Xu   
 [Paper](https://arxiv.org/pdf/2102.07052) | [Code](https://github.com/zhangbuzhang/open-cevo) | [Slides]() | [BibTex]() 
-[Paper]() | [Code](https://github.com/Thanos2024/Thanos) | [Slides]() | [BibTex]()   
-**<font color="red">Won Distinguished Paper Honorable Mention</font>**
 
 
 [Challenges and opportunities: an in-depth empirical study on configuration error injection testing](https://drive.google.com/file/d/1rGm5U5JLvpjkC-hLxOdOO5i2OqOnsg39/view?pli=1)   
 **ISSTA 2021**
 Wang Li, Zhouyang Jia, Shanshan Li, **Yuanliang Zhang**, Teng Wang, Erci Xu, Ji Wang, Xiangke Liao   
-[Paper](https://drive.google.com/file/d/1rGm5U5JLvpjkC-hLxOdOO5i2OqOnsg39/view?pli=1) | [Code](https://github.com/ConfEIT-code/CeitInspector) | [Slides]() | [BibTex]() 
+[Paper](https://drive.google.com/file/d/1rGm5U5JLvpjkC-hLxOdOO5i2OqOnsg39/view?pli=1) | [Code](https://github.com/ConfEIT-code/CeitInspector) | [Slides](/slides/confuzz.pdf) | [BibTex]() 
 
 
 [Confinlog: Leveraging software logs to infer configuration constraints](https://arxiv.org/pdf/2103.11561)   
 **ICPC 2021**   
 Shulin Zhou, Xiaodong Liu, Shanshan Li, Zhouyang Jia, **Yuanliang Zhang**, Teng Wang, Wang Li, Xiangke Liao   
-[Paper](https://arxiv.org/pdf/2103.11561) | [Code](https://github.com/zhou-shulin/ConfInLog-Src) | [Slides]() | [BibTex]()
+[Paper](https://arxiv.org/pdf/2103.11561) | [Code](https://github.com/zhou-shulin/ConfInLog-Src) | [Slides](/slides/confinlog.pdf) | [BibTex]()   
+**<font color="red">Won Distinguished Paper Honorable Mention</font>**
 
-
+<!--
 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
@@ -107,3 +125,5 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+-->
