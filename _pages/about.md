@@ -71,7 +71,7 @@ Yingwei Ma, Yue Liu, Yue Yu, **Yuanliang Zhang**, Yu Jiang, Changjian Wang, Shan
 
 
 [Challenges and opportunities: an in-depth empirical study on configuration error injection testing](https://drive.google.com/file/d/1rGm5U5JLvpjkC-hLxOdOO5i2OqOnsg39/view?pli=1)   
-**ISSTA 2021**
+**ISSTA 2021**   
 Wang Li, Zhouyang Jia, Shanshan Li, **Yuanliang Zhang**, Teng Wang, Erci Xu, Ji Wang, Xiangke Liao   
 [Paper](https://drive.google.com/file/d/1rGm5U5JLvpjkC-hLxOdOO5i2OqOnsg39/view?pli=1) | [Code](https://github.com/ConfEIT-code/CeitInspector) | [Slides](/slides/confuzz.pdf) | [BibTex]() 
 

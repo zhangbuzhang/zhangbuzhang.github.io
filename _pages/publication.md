@@ -17,6 +17,9 @@ author_profile: true
 Ying Fu, Zhiyong Wu, **Yuanliang Zhang**, Jie Liang, Jingzhou Fu, Yu Jiang, Shanshan Li and Xiangke Liao   
 [Paper]() | [Code](https://github.com/Thanos2024/Thanos) | [Slides]() | [BibTex]()
 
+2024
+======
+
 [Who is in Charge here? Understanding How Runtime Configuration Affects Software along with Variables&Constants]()   
 **APSEC 2024**   
 Chaopeng Luo, **Yuanliang Zhang (co-first)**, Haochen He, Zhouyang Jia, Teng Wang, Shulin Zhou, Si Zheng, Shanshan Li   
@@ -28,6 +31,23 @@ Chaopeng Luo, **Yuanliang Zhang (co-first)**, Haochen He, Zhouyang Jia, Teng Wan
 Yingwei Ma, Yue Liu, Yue Yu, **Yuanliang Zhang**, Yu Jiang, Changjian Wang, Shanshan Li   
 [Paper](https://arxiv.org/pdf/2309.16298) | [Code](https://github.com/yingweima2022/codellm) | [Slides](/slides/ICLR24.pdf) | [BibTex]() 
 
+[Accelerating Static Null Pointer Dereference Detection with Parallel Computing]()
+
+2023
+======
+
+[Towards Better Multilingual Code Search through Cross-Lingual Contrastive Learning]()
+
+[WMWatcher: Preventing Workload-Related Misconfigurations in Production Environment]()
+
+2022
+======
+
+[Clone-based code method usage pattern mining]()   
+
+2021
+======
+
 [An Evolutionary Study of Configuration Design and Implementation in Cloud Systems](https://arxiv.org/pdf/2102.07052)   
 **ICSE 2021**   
 **Yuanliang Zhang**, Haochen He, Owolabi Legunsen, Shanshan Li, Wei Dong, Tianyin Xu   
@@ -35,7 +55,7 @@ Yingwei Ma, Yue Liu, Yue Yu, **Yuanliang Zhang**, Yu Jiang, Changjian Wang, Shan
 
 
 [Challenges and opportunities: an in-depth empirical study on configuration error injection testing](https://drive.google.com/file/d/1rGm5U5JLvpjkC-hLxOdOO5i2OqOnsg39/view?pli=1)   
-**ISSTA 2021**
+**ISSTA 2021**   
 Wang Li, Zhouyang Jia, Shanshan Li, **Yuanliang Zhang**, Teng Wang, Erci Xu, Ji Wang, Xiangke Liao   
 [Paper](https://drive.google.com/file/d/1rGm5U5JLvpjkC-hLxOdOO5i2OqOnsg39/view?pli=1) | [Code](https://github.com/ConfEIT-code/CeitInspector) | [Slides](/slides/confuzz.pdf) | [BibTex]() 
 
@@ -45,3 +65,5 @@ Wang Li, Zhouyang Jia, Shanshan Li, **Yuanliang Zhang**, Teng Wang, Erci Xu, Ji 
 Shulin Zhou, Xiaodong Liu, Shanshan Li, Zhouyang Jia, **Yuanliang Zhang**, Teng Wang, Wang Li, Xiangke Liao   
 [Paper](https://arxiv.org/pdf/2103.11561) | [Code](https://github.com/zhou-shulin/ConfInLog-Src) | [Slides](/slides/confinlog.pdf) | [BibTex]()   
 **<font color="red">Won Distinguished Paper Honorable Mention</font>**
+
+[Deep Understanding of Runtime Configuration Intention]()   

@@ -15,7 +15,7 @@ main:
     url: /teaching/    
 
   - title: "Students"
-    url: /student/    
+    url: /students/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -27,4 +27,4 @@ main:
   #   url: /cv/
     
   - title: "Misc"
-    url: /markdown/
+    url: /misc/
