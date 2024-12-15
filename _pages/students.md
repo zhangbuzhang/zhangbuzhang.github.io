@@ -4,9 +4,9 @@ permalink: /students/
 author_profile: true
 ---
 
-I'm currently mentoring students . 
+I'm currently mentoring the following students:
 
-PhD Students:
+PhD Students
 ======
 
 * Chaopeng Luo (2023-): Configuration Fuzzing
@@ -14,7 +14,7 @@ PhD Students:
 * Yifan Xie (2024-): Software Compatibility Issue
 * Xiangbin Huang (2024-): Testing of LLM
 
-Master Students:
+Master Students
 ======
 
 * Zhizheng Zheng: Configuration Test Generation

@@ -11,9 +11,11 @@ I am an Assistant Professor in the College of Computer Science at National Unive
 
 Research Interests
 ======
-* Configuration Management
-* AI4SE
-* Software Testing
+* Configuration Management   
+
+* AI4SE   
+
+* Software Testing   
 
 
 Academic Career
