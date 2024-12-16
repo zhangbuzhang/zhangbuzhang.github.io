@@ -17,4 +17,4 @@ PhD Students
 Master Students
 ======
 
-* Zhizheng Zheng: Configuration Test Generation
+* Zhizheng Zheng (2024-): Configuration Test Generation

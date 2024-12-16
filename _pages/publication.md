@@ -38,7 +38,7 @@ Rulin Xu, Luohui Chen, Ruyi Zhang, **Yuanliang Zhang**, Wei Xiao, Haifang Zhou, 
 
 [LatVision: Modeling and Predicting Persisting Tail Latency in SSDs]()   
 **HPCC 2024**   
-Linxiao Bai, Zhijie Jiang, **Yuanliang Zhang**, Haoran Liu, Xiangbing Huang, Bin Lin
+Linxiao Bai, Zhijie Jiang, **Yuanliang Zhang**, Haoran Liu, Xiangbing Huang, Bin Lin   
 [Paper]() | [BibTex]() 
 
 2023
