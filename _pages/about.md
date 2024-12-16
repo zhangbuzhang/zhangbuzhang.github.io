@@ -20,15 +20,15 @@ Research Interests
 
 Academic Career
 ======
-* **Assistant Professor, Collage of Computer Science, NUDT, 2023-Now**   
+* **Assistant Professor, College of Computer Science, NUDT, 2023-Now**   
 
-* **Ph.D., Collage of Computer Science, NUDT, 2017-2023**   
+* **Ph.D., College of Computer Science, NUDT, 2017-2023**   
 Advisor: [Xiangke Liao](https://scholar.google.com/citations?user=fEhyQHIAAAAJ&hl=zh-CN) and [Shanshan Li](https://leopard-lab.github.io/)
 
 * **Visiting Student (CSC Sholarship), Department of Computer Science, UIUC, 2019-2020**   
 Advisor: [Tianyin Xu](https://tianyin.github.io/)
 
-* **Bachelor, Collage of Computer Science, NUDT, 2013-2017**   
+* **Bachelor, College of Computer Science, NUDT, 2013-2017**   
 
 
 

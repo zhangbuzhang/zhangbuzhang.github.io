@@ -36,6 +36,11 @@ Yingwei Ma, Yue Liu, Yue Yu, **Yuanliang Zhang**, Yu Jiang, Changjian Wang, Shan
 Rulin Xu, Luohui Chen, Ruyi Zhang, **Yuanliang Zhang**, Wei Xiao, Haifang Zhou, Xiaoguang Mao   
 [Paper]() | [BibTex]() 
 
+[LatVision: Modeling and Predicting Persisting Tail Latency in SSDs]()   
+**HPCC 2024**   
+Linxiao Bai, Zhijie Jiang, **Yuanliang Zhang**, Haoran Liu, Xiangbing Huang, Bin Lin
+[Paper]() | [BibTex]() 
+
 2023
 ======
 
