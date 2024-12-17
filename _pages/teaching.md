@@ -9,11 +9,8 @@ I'm currently teaching **Operating System** and **Introduction to Programming (C
 2024:
 ======
 
-* Operating System (Spring)   
-[Selected students comments]()
+* Operating System (Fall)   
+[Selected students comments](/OS24_fall/)
 
-* Introduction to Python Programming (Spring)   
-[Selected students comments]()   
+* Introduction to Python Programming (Fall)   
 
-* Introduction to C++ Programming (Fall)   
-[Selected students comments]()

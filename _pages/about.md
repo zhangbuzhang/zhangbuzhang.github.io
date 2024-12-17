@@ -7,15 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the College of Computer Science at National University of Defense Technology (NUDT). I teach CS-related courses and conduct research in the field, striving not to be swept away by the fast-paced technological revolution. I have broad research interests in software systems. To be more specific, my goal is to build reliable and efficient software systems by leveraging traditional methods (configuration management, software testing) and intelligent approaches (AI4SE). 
+I am an Assistant Professor in the College of Computer Science at National University of Defense Technology (NUDT). I teach CS-related courses and conduct research in the field, striving not to be swept away by the fast-paced tech revolution. I have broad research interests in software systems. To be more specific, my goal is to build reliable and efficient software systems by combining traditional methods and intelligent approaches. 
 
 Research Interests
 ======
-* Configuration Management   
+* Configuration Management     
+[APSEC'24](), [ICSE'21](https://arxiv.org/pdf/2102.07052), [ICPC'21](https://arxiv.org/pdf/2103.11561)
 
-* AI4SE   
+* AI4SE  
+[ICSE'25 A](https://arxiv.org/pdf/2412.08109), [ICLR'24](https://arxiv.org/pdf/2309.16298) 
 
 * Software Testing   
+[ICSE'25 B](), [ISSTA'21](https://drive.google.com/file/d/1rGm5U5JLvpjkC-hLxOdOO5i2OqOnsg39/view?pli=1)
 
 
 Academic Career
@@ -34,98 +37,54 @@ Advisor: [Tianyin Xu](https://tianyin.github.io/)
 
 News
 ======
-* Our works on configuration understanding won APSEC'24 Distinguish Paper Award.
+* Our works on configuration understanding won **<font color="red">APSEC'24 Distinguish Paper Award</font>**
 
-* OBFUSEVAL is accepted to ICSE'25 (second cycle)
+* Chaopeng and Yifan have successfully completed their master's degrees
 
-* Thanos is accepted to ICSE'25 (first cycle)
+* OBFUSEVAL is accepted to **<font color="red">ICSE'25</font>** (second cycle)
+
+* Thanos is accepted to **<font color="red">ICSE'25</font>** (first cycle)
 
 
 
-Recent Publication
+<!-- Recent Publication
 ======
 
 [Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar](https://arxiv.org/pdf/2412.08109)   
 **ICSE 2025**   
 **Yuanliang Zhang**, Yifan Xie, Shanshan Li, Ke Liu, Chong Wang, Zhouyang Jia, Xiangbing Huang, Jie Song, Chaopeng Luo, Zhizheng Zheng, Rulin Xu, Yitong Liu, Si Zheng, and Xiangke Liao   
-[Paper](https://arxiv.org/pdf/2412.08109) | [Code](https://github.com/zhangbuzhang/ObfusEval) | [Slides]() | [BibTex]()
+[Paper](https://arxiv.org/pdf/2412.08109) | [Code](https://github.com/zhangbuzhang/ObfusEval) | [Slides](/404/) 
 
-[Thanos: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing]()   
+[Thanos: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing](/404/)   
 **ICSE 2025**     
 Ying Fu, Zhiyong Wu, **Yuanliang Zhang**, Jie Liang, Jingzhou Fu, Yu Jiang, Shanshan Li and Xiangke Liao   
-[Paper]() | [Code](https://github.com/Thanos2024/Thanos) | [Slides]() | [BibTex]()
+[Paper]() | [Code](https://github.com/Thanos2024/Thanos) | [Slides](/404/)
 
-[Who is in Charge here? Understanding How Runtime Configuration Affects Software along with Variables&Constants]()   
+[Who is in Charge here? Understanding How Runtime Configuration Affects Software along with Variables&Constants](/404/)   
 **APSEC 2024**   
 Chaopeng Luo, **Yuanliang Zhang (co-first)**, Haochen He, Zhouyang Jia, Teng Wang, Shulin Zhou, Si Zheng, Shanshan Li   
-[Paper]() | [Code](https://github.com/PCVAnonymous/PCVStudy) | [Slides](/slides/pcv_Study_Talk.pdf) | [BibTex]()   
-**<font color="red">Won Distinguished Paper Award</font>**
+[Paper](/404/) | [Code](https://github.com/PCVAnonymous/PCVStudy) | [Slides](/slides/pcv_Study_Talk.pdf)   
+**<font color="red">Distinguished Paper Award</font>**
 
 [At Which Training Stage Does Code Data Help LLMs Reasoning?](https://arxiv.org/pdf/2309.16298)   
 **ICLR 2024**   
 Yingwei Ma, Yue Liu, Yue Yu, **Yuanliang Zhang**, Yu Jiang, Changjian Wang, Shanshan Li   
-[Paper](https://arxiv.org/pdf/2309.16298) | [Code](https://github.com/yingweima2022/codellm) | [Slides](/slides/ICLR24.pdf) | [BibTex]() 
+[Paper](https://arxiv.org/pdf/2309.16298) | [Code](https://github.com/yingweima2022/codellm) | [Slides](/slides/ICLR24.pdf)
 
 [An Evolutionary Study of Configuration Design and Implementation in Cloud Systems](https://arxiv.org/pdf/2102.07052)   
 **ICSE 2021**   
 **Yuanliang Zhang**, Haochen He, Owolabi Legunsen, Shanshan Li, Wei Dong, Tianyin Xu   
-[Paper](https://arxiv.org/pdf/2102.07052) | [Code](https://github.com/zhangbuzhang/open-cevo) | [Slides]() | [BibTex]() 
+[Paper](https://arxiv.org/pdf/2102.07052) | [Code](https://github.com/zhangbuzhang/open-cevo) | [Slides](/slides/cevo.pdf)
 
 
 [Challenges and opportunities: an in-depth empirical study on configuration error injection testing](https://drive.google.com/file/d/1rGm5U5JLvpjkC-hLxOdOO5i2OqOnsg39/view?pli=1)   
 **ISSTA 2021**   
 Wang Li, Zhouyang Jia, Shanshan Li, **Yuanliang Zhang**, Teng Wang, Erci Xu, Ji Wang, Xiangke Liao   
-[Paper](https://drive.google.com/file/d/1rGm5U5JLvpjkC-hLxOdOO5i2OqOnsg39/view?pli=1) | [Code](https://github.com/ConfEIT-code/CeitInspector) | [Slides](/slides/confuzz.pdf) | [BibTex]() 
+[Paper](https://drive.google.com/file/d/1rGm5U5JLvpjkC-hLxOdOO5i2OqOnsg39/view?pli=1) | [Code](https://github.com/ConfEIT-code/CeitInspector) | [Slides](/slides/confuzz.pdf)
 
 
 [Confinlog: Leveraging software logs to infer configuration constraints](https://arxiv.org/pdf/2103.11561)   
 **ICPC 2021**   
 Shulin Zhou, Xiaodong Liu, Shanshan Li, Zhouyang Jia, **Yuanliang Zhang**, Teng Wang, Wang Li, Xiangke Liao   
-[Paper](https://arxiv.org/pdf/2103.11561) | [Code](https://github.com/zhou-shulin/ConfInLog-Src) | [Slides](/slides/confinlog.pdf) | [BibTex]()   
-**<font color="red">Won Distinguished Paper Honorable Mention</font>**
-
-<!--
-
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
-
--->
+[Paper](https://arxiv.org/pdf/2103.11561) | [Code](https://github.com/zhou-shulin/ConfInLog-Src) | [Slides](/slides/confinlog.pdf)    
+**<font color="red">Distinguished Paper Honorable Mention</font>** -->
