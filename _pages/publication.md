@@ -17,6 +17,12 @@ author_profile: true
 Ying Fu, Zhiyong Wu, **Yuanliang Zhang**, Jie Liang, Jingzhou Fu, Yu Jiang, Shanshan Li and Xiangke Liao   
 [Paper](/404/) | [Code](https://github.com/Thanos2024/Thanos) | [Slides](/404/) 
 
+[基础软件性能缺陷检测研究综述](/papers/JOC2025.pdf)   
+**计算机学报**   
+何浩辰, 李姗姗, 贾周阳, 姚懿恒, 张元良, 王戟, 廖湘科   
+[Paper](/papers/JOC2025.pdf)
+
+
 2024
 ======
 
@@ -36,10 +42,10 @@ Yingwei Ma, Yue Liu, Yue Yu, **Yuanliang Zhang**, Yu Jiang, Changjian Wang, Shan
 Rulin Xu, Luohui Chen, Ruyi Zhang, **Yuanliang Zhang**, Wei Xiao, Haifang Zhou, Xiaoguang Mao   
 [Paper](/404/)
 
-[LatVision: Modeling and Predicting Persisting Tail Latency in SSDs](/404/)   
+[LatVision: Modeling and Predicting Persisting Tail Latency in SSDs](/papers/hpcc24.pdf)   
 **HPCC 2024**   
 Linxiao Bai, Zhijie Jiang, **Yuanliang Zhang**, Haoran Liu, Xiangbing Huang, Bin Lin   
-[Paper](/404/)
+[Paper](/papers/hpcc24.pdf)
 
 2023
 ======
