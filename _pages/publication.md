@@ -92,6 +92,6 @@ Shulin Zhou, Xiaodong Liu, Shanshan Li, Zhouyang Jia, **Yuanliang Zhang**, Teng 
 **<font color="red">Distinguished Paper Honorable Mention</font>** ([PDF](/awards/ICPC21.pdf))
 
 [Deep Understanding of Runtime Configuration Intention](https://drive.google.com/file/d/1q--5lFW_CM7j9xYLWy81D7v79_GHhjFi/view)   
-**IJSEKE 2021**
-Chenglong Zhou, Haoran Liu, **Yuanliang Zhang**, Zhipeng Xue, Qing Liao, JinJing Zhao, Ji Wang   
+**IJSEKE 2021**   
+Chenglong Zhou, Haoran Liu, **Yuanliang Zhang**, Zhipeng Xue, Qing Liao, JinJing Zhao, Ji Wang    
 [Paper](https://drive.google.com/file/d/1q--5lFW_CM7j9xYLWy81D7v79_GHhjFi/view) | [Code](https://github.com/HaoranLiu14/Configuration-Intention-Dataset)
