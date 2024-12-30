@@ -37,7 +37,7 @@ Advisor: [Tianyin Xu](https://tianyin.github.io/)
 
 News
 ======
-* Our works on configuration understanding won **<font color="red">APSEC'24 Distinguish Paper Award</font>**
+* Our works on configuration understanding won **<font color="red">APSEC'24 Distinguished Paper Award</font>**
 
 * Chaopeng and Yifan have successfully completed their master's degrees
 
