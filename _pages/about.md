@@ -28,7 +28,7 @@ Academic Career
 * **Ph.D., College of Computer Science, NUDT, 2017-2023**   
 Advisor: [Xiangke Liao](https://scholar.google.com/citations?user=fEhyQHIAAAAJ&hl=zh-CN) and [Shanshan Li](https://leopard-lab.github.io/)
 
-* **Visiting Student (CSC Sholarship), Department of Computer Science, UIUC, 2019-2020**   
+* **[Visiting Student](/images/misc/UIUC2020.jpg) (CSC Sholarship), Department of Computer Science, UIUC, 2019-2020**   
 Advisor: [Tianyin Xu](https://tianyin.github.io/)
 
 * **Bachelor, College of Computer Science, NUDT, 2013-2017**   

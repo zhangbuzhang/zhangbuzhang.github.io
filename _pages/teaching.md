@@ -12,5 +12,6 @@ I'm currently teaching **Operating System** and **Introduction to Programming (C
 * Operating System (Fall)   
 [Selected students comments](/OS24_fall/)
 
-* Introduction to Python Programming (Fall)   
+* Introduction to Python Programming (Fall)    
+[Selected students comments](/PIntro24_fall/)  
 
