@@ -15,7 +15,7 @@ author_profile: true
 [Thanos: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing](/404/)   
 **ICSE 2025**     
 Ying Fu, Zhiyong Wu, **Yuanliang Zhang**, Jie Liang, Jingzhou Fu, Yu Jiang, Shanshan Li and Xiangke Liao   
-[Paper](/404/) | [Code](https://github.com/Thanos2024/Thanos) | [Slides](/404/) 
+[Paper](/papers/ICSE25B.pdf) | [Code](https://github.com/Thanos2024/Thanos) | [Slides](/404/) 
 
 [基础软件性能缺陷检测研究综述](/papers/JOC2025.pdf)   
 **计算机学报**   
@@ -29,7 +29,7 @@ Ying Fu, Zhiyong Wu, **Yuanliang Zhang**, Jie Liang, Jingzhou Fu, Yu Jiang, Shan
 [Who is in Charge here? Understanding How Runtime Configuration Affects Software along with Variables&Constants](/404/)   
 **APSEC 2024**   
 Chaopeng Luo, **Yuanliang Zhang (co-first)**, Haochen He, Zhouyang Jia, Teng Wang, Shulin Zhou, Si Zheng, Shanshan Li   
-[Paper](/404/) | [Code](https://github.com/PCVAnonymous/PCVStudy) | [Slides](/slides/pcv_Study_Talk.pdf)    
+[Paper](/papers/APSEC24.pdf) | [Code](https://github.com/PCVAnonymous/PCVStudy) | [Slides](/slides/pcv_Study_Talk.pdf)    
 **<font color="red">Distinguished Paper Award</font>** ([PDF](/awards/APSEC24.pdf))
 
 [At Which Training Stage Does Code Data Help LLMs Reasoning?](https://arxiv.org/pdf/2309.16298)   
