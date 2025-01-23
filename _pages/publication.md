@@ -12,7 +12,7 @@ author_profile: true
 **Yuanliang Zhang**, Yifan Xie, Shanshan Li, Ke Liu, Chong Wang, Zhouyang Jia, Xiangbing Huang, Jie Song, Chaopeng Luo, Zhizheng Zheng, Rulin Xu, Yitong Liu, Si Zheng, and Xiangke Liao   
 [Paper](https://arxiv.org/pdf/2412.08109) | [Code](https://github.com/zhangbuzhang/ObfusEval) | [Slides](/404/) 
 
-[Thanos: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing](/404/)   
+[Thanos: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing](/papers/ICSE25B.pdf)   
 **ICSE 2025**     
 Ying Fu, Zhiyong Wu, **Yuanliang Zhang**, Jie Liang, Jingzhou Fu, Yu Jiang, Shanshan Li and Xiangke Liao   
 [Paper](/papers/ICSE25B.pdf) | [Code](https://github.com/Thanos2024/Thanos) | [Slides](/404/) 
@@ -26,7 +26,7 @@ Ying Fu, Zhiyong Wu, **Yuanliang Zhang**, Jie Liang, Jingzhou Fu, Yu Jiang, Shan
 2024
 ======
 
-[Who is in Charge here? Understanding How Runtime Configuration Affects Software along with Variables&Constants](/404/)   
+[Who is in Charge here? Understanding How Runtime Configuration Affects Software along with Variables&Constants](/papers/APSEC24.pdf)   
 **APSEC 2024**   
 Chaopeng Luo, **Yuanliang Zhang (co-first)**, Haochen He, Zhouyang Jia, Teng Wang, Shulin Zhou, Si Zheng, Shanshan Li   
 [Paper](/papers/APSEC24.pdf) | [Code](https://github.com/PCVAnonymous/PCVStudy) | [Slides](/slides/pcv_Study_Talk.pdf)    
