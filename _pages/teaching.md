@@ -4,7 +4,16 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I'm currently teaching **Operating System** and **Introduction to Programming (C++/python)**. I list some very interesting student comments for fun (sorry they are in Chinese).
+I'm currently teaching **Operating System** and **Introduction to Computing**. I list some very interesting student comments(in Chinese) for fun.
+
+2025:
+======
+
+* Operating System (Spring)   
+Selected students comments(TBD)
+
+* Introduction to Computing (Spring)    
+Selected students comments(TBD)
 
 2024:
 ======
@@ -12,6 +21,6 @@ I'm currently teaching **Operating System** and **Introduction to Programming (C
 * Operating System (Fall)   
 [Selected students comments](/OS24_fall/)
 
-* Introduction to Python Programming (Fall)    
+* Introduction to Computing (Fall)    
 [Selected students comments](/PIntro24_fall/)  
 
