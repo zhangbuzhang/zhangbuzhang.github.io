@@ -37,7 +37,7 @@ Advisor: [Tianyin Xu](https://tianyin.github.io/)
 
 News
 ======
-* Our works on LLM Obfuscation benchmark and DBMS differential testing won 2 **<font color="red">ACM SIGSOFT Distinguished Paper Award</font>** on ICSE 2025
+* Our works on LLM Obfuscation benchmark and DBMS differential testing won **<font color="red">2 ACM SIGSOFT Distinguished Paper Award</font>** on ICSE 2025
 
 * Our works on configuration understanding won **<font color="red">APSEC'24 Distinguished Paper Award</font>**
 
