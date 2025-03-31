@@ -15,7 +15,10 @@ main:
     url: /teaching/    
 
   - title: "Students"
-    url: /students/    
+    url: /students/   
+    
+  - title: "Services"
+    url: /services/   
     
   # - title: "Portfolio"
   #   url: /portfolio/

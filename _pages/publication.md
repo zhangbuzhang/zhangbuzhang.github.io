@@ -7,6 +7,12 @@ author_profile: true
 2025
 ======
 
+[MetaCoder: Generating Code from Multiple Perspectives](/404/)   
+**Internetware 2025**   
+Xin Chen, Zhijie Jiang, Yong Guo, Zhouyang Jia, Si Zheng, **Yuanliang Zhang**, Shanshan Li   
+[Paper](/404/) | [Code](/404/) | [Slides](/404/)   
+
+
 [Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar](https://arxiv.org/pdf/2412.08109)   
 **ICSE 2025**   
 **Yuanliang Zhang**, Yifan Xie, Shanshan Li, Ke Liu, Chong Wang, Zhouyang Jia, Xiangbing Huang, Jie Song, Chaopeng Luo, Zhizheng Zheng, Rulin Xu, Yitong Liu, Si Zheng, and Xiangke Liao   

@@ -34,17 +34,17 @@ Advisor: [Tianyin Xu](https://tianyin.github.io/)
 * **Bachelor, College of Computer Science, NUDT, 2013-2017**   
 
 
-
 News
 ======
-* Our works on LLM Obfuscation benchmark and DBMS differential testing won **<font color="red">2 ACM SIGSOFT Distinguished Paper Award</font>** on ICSE 2025
 
-* Our works on configuration understanding won **<font color="red">APSEC'24 Distinguished Paper Award</font>**
+* Served as PC member of [APSEC 2025](https://conf.researchr.org/home/apsec-2025). Welcome to Macau!
 
-* Chaopeng and Yifan have successfully completed their master's degrees
+* Our works on LLM Obfuscation benchmark and DBMS differential testing won **<font color="red">2 ACM SIGSOFT Distinguished Paper Award</font>** on ICSE 2025.
 
-* OBFUSEVAL is accepted to **<font color="red">ICSE'25</font>** (second cycle)
+* Our works on configuration understanding won **<font color="red">APSEC'24 Distinguished Paper Award</font>**.
 
-* Thanos is accepted to **<font color="red">ICSE'25</font>** (first cycle)
+* Invited to serve as Reviewer of ACM Transactions on Computer Systems.
+
+* Chaopeng and Yifan have successfully completed their master's degrees and become Ph.D students. Congrats!
 
 
