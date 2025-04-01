@@ -10,11 +10,11 @@ Conferences
 ======   
 (**<font color="red">default = PC member</font>**):   
 
-2025 APSEC, EXPRESS (ISSTA Workshop)   
-2024 SEAMS Aritifact
+2025 [APSEC](https://conf.researchr.org/home/apsec-2025), [EXPRESS (ISSTA Workshop)](https://conf.researchr.org/home/issta-2025/express-2025)   
+2024 [SEAMS Aritifact](https://conf.researchr.org/home/seams-2024)
 
 Journals   
 ======
  (**<font color="red">default = Reviewer</font>**): 
 
-ACM Transactions on Computer Systems (TOCS)
+[ACM Transactions on Computer Systems (TOCS)](https://dl.acm.org/journal/tocs)
