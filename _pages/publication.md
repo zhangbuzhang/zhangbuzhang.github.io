@@ -7,21 +7,30 @@ author_profile: true
 2025
 ======
 
-[MetaCoder: Generating Code from Multiple Perspectives](/404/)   
-**Internetware 2025**   
-Xin Chen, Zhijie Jiang, Yong Guo, Zhouyang Jia, Si Zheng, **Yuanliang Zhang**, Shanshan Li   
-[Paper](/404/) | [Code](/404/) | [Slides](/404/)   
+[Error Delayed is Not Error Handled: Understanding and Fixing Propagated Error-Handling Bugs](/404/)   
+**FSE 2025**   
+Haoran Liu, Shanshan Li, Zhouyang Jia, **Yuanliang Zhang**, Linxiao Bai, Si Zheng, Xiaoguang Mao, Xiangke Liao   
+[Paper](/404/) | [Code](/404/) | [Slides](/404/)  
 
+[Bridging Operator Semantic Inconsistencies: A Source-level Cross-framework Model Conversion Approach](/404/)   
+**FSE 2025**   
+Xingpei Li, Yan Lei, Zhouyang Jia, **Yuanliang Zhang**, Haoran Liu, Liqian Chen, Wei Dong, Shanshan Li   
+[Paper](/404/) | [Code](/404/) | [Slides](/404/)  
+
+[μScope: Evaluating Storage Stack Robustness Against SSD's Latency Variation](/404/)   
+**Journal of Systems Architecture**   
+Linxiao Bai, Shanshan Li, Zhouyang Jia, Yu Jiang, **Yuanliang Zhang**, Zichen Xu, Bin Lin, Si Zheng, Xiangke Liao   
+[Paper](/404/) | [Code](/404/) | [Slides](/404/)   
 
 [Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar](https://arxiv.org/pdf/2412.08109)   
 **ICSE 2025**   
-**Yuanliang Zhang**, Yifan Xie, Shanshan Li, Ke Liu, Chong Wang, Zhouyang Jia, Xiangbing Huang, Jie Song, Chaopeng Luo, Zhizheng Zheng, Rulin Xu, Yitong Liu, Si Zheng, and Xiangke Liao   
+**Yuanliang Zhang**, Yifan Xie, Shanshan Li, Ke Liu, Chong Wang, Zhouyang Jia, Xiangbing Huang, Jie Song, Chaopeng Luo, Zhizheng Zheng, Rulin Xu, Yitong Liu, Si Zheng, Xiangke Liao   
 [Paper](https://arxiv.org/pdf/2412.08109) | [Code](https://github.com/zhangbuzhang/ObfusEval) | [Slides](/404/)   
 **<font color="red">ACM SIGSOFT Distinguished Paper Award</font>** ([PDF](/404/))
 
 [Thanos: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing](/papers/ICSE25B.pdf)   
 **ICSE 2025**     
-Ying Fu, Zhiyong Wu, **Yuanliang Zhang**, Jie Liang, Jingzhou Fu, Yu Jiang, Shanshan Li and Xiangke Liao   
+Ying Fu, Zhiyong Wu, **Yuanliang Zhang**, Jie Liang, Jingzhou Fu, Yu Jiang, Shanshan Li, Xiangke Liao   
 [Paper](/papers/ICSE25B.pdf) | [Code](https://github.com/Thanos2024/Thanos) | [Slides](/404/)   
 **<font color="red">ACM SIGSOFT Distinguished Paper Award</font>** ([PDF](/404/))
 
@@ -30,6 +39,10 @@ Ying Fu, Zhiyong Wu, **Yuanliang Zhang**, Jie Liang, Jingzhou Fu, Yu Jiang, Shan
 何浩辰, 李姗姗, 贾周阳, 姚懿恒, 张元良, 王戟, 廖湘科   
 [Paper](/papers/JOC2025.pdf)
 
+[MetaCoder: Generating Code from Multiple Perspectives](/404/)   
+**Internetware 2025**   
+Xin Chen, Zhijie Jiang, Yong Guo, Zhouyang Jia, Si Zheng, **Yuanliang Zhang**, Shanshan Li   
+[Paper](/404/) | [Code](/404/) | [Slides](/404/)   
 
 2024
 ======
