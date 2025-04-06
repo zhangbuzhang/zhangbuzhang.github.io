@@ -39,7 +39,7 @@ News
 
 * Served as PC member of [APSEC 2025](https://conf.researchr.org/home/apsec-2025). Welcome to Macau!
 
-* Two papers get accepted by FSE 2025.  
+* Two papers get accepted by FSE 2025. Congrats to Haoran and Xingpei!
 
 * Our works on LLM Obfuscation benchmark and DBMS differential testing won **<font color="red">2 ACM SIGSOFT Distinguished Paper Award</font>** on ICSE 2025.
 
