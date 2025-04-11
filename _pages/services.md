@@ -11,7 +11,7 @@ Conferences
 (**<font color="red">default = PC member</font>**):   
 
 2025 [APSEC](https://conf.researchr.org/home/apsec-2025), [EXPRESS (ISSTA Workshop)](https://conf.researchr.org/home/issta-2025/express-2025)   
-2024 [SEAMS Aritifact](https://conf.researchr.org/home/seams-2024)
+2024 [SEAMS AE](https://conf.researchr.org/home/seams-2024)
 
 Journals   
 ======
