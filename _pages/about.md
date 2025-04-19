@@ -37,14 +37,15 @@ Advisor: [Tianyin Xu](https://tianyin.github.io/)
 News
 ======
 
+* Served as PC member of [OSDI 2025 AE](https://www.usenix.org/conference/osdi25/call-for-artifacts).
+
 * Served as PC member of [APSEC 2025](https://conf.researchr.org/home/apsec-2025). Welcome to Macau!
 
 * Two papers get accepted by FSE 2025. Congrats to Haoran and Xingpei!
 
 * Our works on LLM Obfuscation benchmark and DBMS differential testing won **<font color="red">2 ACM SIGSOFT Distinguished Paper Award</font>** on ICSE 2025.
 
-* Our works on configuration understanding won **<font color="red">APSEC'24 Distinguished Paper Award</font>**. 
-
 * Invited to serve as Reviewer of ACM Transactions on Computer Systems.
 
+* Our works on configuration understanding won **<font color="red">APSEC'24 Distinguished Paper Award</font>**. 
 
