@@ -25,13 +25,13 @@ Linxiao Bai, Shanshan Li, Zhouyang Jia, Yu Jiang, **Yuanliang Zhang**, Zichen Xu
 [Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar](https://arxiv.org/pdf/2412.08109)   
 **ICSE 2025**   
 **Yuanliang Zhang**, Yifan Xie, Shanshan Li, Ke Liu, Chong Wang, Zhouyang Jia, Xiangbing Huang, Jie Song, Chaopeng Luo, Zhizheng Zheng, Rulin Xu, Yitong Liu, Si Zheng, Xiangke Liao   
-[Paper](https://arxiv.org/pdf/2412.08109) | [Code](https://github.com/zhangbuzhang/ObfusEval) | [Slides](/404/)   
+[Paper](https://arxiv.org/pdf/2412.08109) | [Code](https://github.com/zhangbuzhang/ObfusEval) | [Slides](/slides/obfuseval.pdf)   
 **<font color="red">ACM SIGSOFT Distinguished Paper Award</font>** ([PDF](/404/))
 
 [Thanos: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing](/papers/ICSE25B.pdf)   
 **ICSE 2025**     
 Ying Fu, Zhiyong Wu, **Yuanliang Zhang**, Jie Liang, Jingzhou Fu, Yu Jiang, Shanshan Li, Xiangke Liao   
-[Paper](/papers/ICSE25B.pdf) | [Code](https://github.com/Thanos2024/Thanos) | [Slides](/404/)   
+[Paper](/papers/ICSE25B.pdf) | [Code](https://github.com/Thanos2024/Thanos) | [Slides](/slides/Thanos.pdf)   
 **<font color="red">ACM SIGSOFT Distinguished Paper Award</font>** ([PDF](/404/))
 
 [基础软件性能缺陷检测研究综述](/papers/JOC2025.pdf)   
