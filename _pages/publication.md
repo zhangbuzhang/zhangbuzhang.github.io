@@ -7,20 +7,20 @@ author_profile: true
 2025
 ======
 
-[Error Delayed is Not Error Handled: Understanding and Fixing Propagated Error-Handling Bugs](/404/)   
+[Error Delayed is Not Error Handled: Understanding and Fixing Propagated Error-Handling Bugs](/papers/FSE25_Error.pdf)   
 **FSE 2025**   
 Haoran Liu, Shanshan Li, Zhouyang Jia, **Yuanliang Zhang**, Linxiao Bai, Si Zheng, Xiaoguang Mao, Xiangke Liao   
-[Paper](/404/) | [Code](/404/) | [Slides](/404/)  
+[Paper](/papers/FSE25_Error.pdf) | [Code](https://github.com/EH-Fixer/EH-Fixer) | [Slides](/404/)  
 
-[Bridging Operator Semantic Inconsistencies: A Source-level Cross-framework Model Conversion Approach](/404/)   
+[Bridging Operator Semantic Inconsistencies: A Source-level Cross-framework Model Conversion Approach](/papers/ModelX.pdf)   
 **FSE 2025**   
 Xingpei Li, Yan Lei, Zhouyang Jia, **Yuanliang Zhang**, Haoran Liu, Liqian Chen, Wei Dong, Shanshan Li   
-[Paper](/404/) | [Code](/404/) | [Slides](/404/)  
+[Paper](/papers/ModelX.pdf) | [Code](https://github.com/zuishenke123/ModelX) | [Slides](/404/)  
 
-[μScope: Evaluating Storage Stack Robustness Against SSD's Latency Variation](/404/)   
+[μScope: Evaluating Storage Stack Robustness Against SSD's Latency Variation](/papers/JSA25.pdf)   
 **Journal of Systems Architecture**   
 Linxiao Bai, Shanshan Li, Zhouyang Jia, Yu Jiang, **Yuanliang Zhang**, Zichen Xu, Bin Lin, Si Zheng, Xiangke Liao   
-[Paper](/404/) | [Code](/404/) | [Slides](/404/)   
+[Paper](/papers/JSA25.pdf) | [Code](https://github.com/u-Scope/uScope)   
 
 [Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar](https://arxiv.org/pdf/2412.08109)   
 **ICSE 2025**   
