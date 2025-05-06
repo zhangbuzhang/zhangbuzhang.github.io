@@ -26,13 +26,13 @@ Linxiao Bai, Shanshan Li, Zhouyang Jia, Yu Jiang, **Yuanliang Zhang**, Zichen Xu
 **ICSE 2025**   
 **Yuanliang Zhang**, Yifan Xie, Shanshan Li, Ke Liu, Chong Wang, Zhouyang Jia, Xiangbing Huang, Jie Song, Chaopeng Luo, Zhizheng Zheng, Rulin Xu, Yitong Liu, Si Zheng, Xiangke Liao   
 [Paper](https://arxiv.org/pdf/2412.08109) | [Code](https://github.com/zhangbuzhang/ObfusEval) | [Slides](/slides/obfuseval.pdf)   
-**<font color="red">ACM SIGSOFT Distinguished Paper Award</font>** ([PDF](/404/))
+**<font color="red">ACM SIGSOFT Distinguished Paper Award</font>** ([PDF](/awards/ObfusEval.pdf))
 
 [Thanos: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing](/papers/ICSE25B.pdf)   
 **ICSE 2025**     
 Ying Fu, Zhiyong Wu, **Yuanliang Zhang**, Jie Liang, Jingzhou Fu, Yu Jiang, Shanshan Li, Xiangke Liao   
 [Paper](/papers/ICSE25B.pdf) | [Code](https://github.com/Thanos2024/Thanos) | [Slides](/slides/Thanos.pdf)   
-**<font color="red">ACM SIGSOFT Distinguished Paper Award</font>** ([PDF](/404/))
+**<font color="red">ACM SIGSOFT Distinguished Paper Award</font>** ([PDF](/awards/Thanos.pdf))
 
 [基础软件性能缺陷检测研究综述](/papers/JOC2025.pdf)   
 **计算机学报**   
