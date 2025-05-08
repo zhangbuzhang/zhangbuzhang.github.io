@@ -37,7 +37,7 @@ Advisor: [Tianyin Xu](https://tianyin.github.io/)
 News
 ======
 
-* Served as PC member of [OSDI 2025 AE](https://www.usenix.org/conference/osdi25/call-for-artifacts).
+* Served as PC member of [OSDI/ATC 2025 AE](https://www.usenix.org/conference/osdi25/call-for-artifacts).
 
 * Served as PC member of [APSEC 2025](https://conf.researchr.org/home/apsec-2025). Welcome to Macau!
 
