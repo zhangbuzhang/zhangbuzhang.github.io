@@ -10,12 +10,12 @@ author_profile: true
 [Error Delayed is Not Error Handled: Understanding and Fixing Propagated Error-Handling Bugs](/papers/FSE25_Error.pdf)   
 **FSE 2025**   
 Haoran Liu, Shanshan Li, Zhouyang Jia, **Yuanliang Zhang**, Linxiao Bai, Si Zheng, Xiaoguang Mao, Xiangke Liao   
-[Paper](/papers/FSE25_Error.pdf) | [Code](https://github.com/EH-Fixer/EH-Fixer) | [Slides](/404/)  
+[Paper](/papers/FSE25_Error.pdf) | [Code](https://github.com/EH-Fixer/EH-Fixer) | [Slides](/slides/FSE25A.pdf)  
 
 [Bridging Operator Semantic Inconsistencies: A Source-level Cross-framework Model Conversion Approach](/papers/ModelX.pdf)   
 **FSE 2025**   
 Xingpei Li, Yan Lei, Zhouyang Jia, **Yuanliang Zhang**, Haoran Liu, Liqian Chen, Wei Dong, Shanshan Li   
-[Paper](/papers/ModelX.pdf) | [Code](https://github.com/zuishenke123/ModelX) | [Slides](/404/)  
+[Paper](/papers/ModelX.pdf) | [Code](https://github.com/zuishenke123/ModelX) | [Slides](/slides/FSE25B.pdf)  
 
 [μScope: Evaluating Storage Stack Robustness Against SSD's Latency Variation](/papers/JSA25.pdf)   
 **Journal of Systems Architecture**   
@@ -39,10 +39,10 @@ Ying Fu, Zhiyong Wu, **Yuanliang Zhang**, Jie Liang, Jingzhou Fu, Yu Jiang, Shan
 何浩辰, 李姗姗, 贾周阳, 姚懿恒, 张元良, 王戟, 廖湘科   
 [Paper](/papers/JOC2025.pdf)
 
-[MetaCoder: Generating Code from Multiple Perspectives](/404/)   
+[MetaCoder: Generating Code from Multiple Perspectives](/papers/MetaCoder.pdf)   
 **Internetware 2025**   
 Xin Chen, Zhijie Jiang, Yong Guo, Zhouyang Jia, Si Zheng, **Yuanliang Zhang**, Shanshan Li   
-[Paper](/404/) | [Code](/404/) | [Slides](/404/)   
+[Paper](/papers/MetaCoder.pdf) | [Code](https://github.com/cx-hub/MetaCoder) | [Slides](/slides/MetaCoder.pdf)   
 
 2024
 ======
