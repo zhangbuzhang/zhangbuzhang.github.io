@@ -10,7 +10,7 @@ author_profile: true
 [Error Delayed is Not Error Handled: Understanding and Fixing Propagated Error-Handling Bugs](/papers/FSE25_Error.pdf)   
 **FSE 2025**   
 Haoran Liu, Shanshan Li, Zhouyang Jia, **Yuanliang Zhang**, Linxiao Bai, Si Zheng, Xiaoguang Mao, Xiangke Liao   
-[Paper](/papers/FSE25_Error.pdf) | [Code](https://github.com/EH-Fixer/EH-Fixer) | [Slides](/slides/FSE25A.pdf)  
+[Paper](/papers/FSE25_Error.pdf) | [Code](https://github.com/EH-Fixer/EH-Fixer) | [Slides](/slides/EH-Digger.pdf)  
 
 [Bridging Operator Semantic Inconsistencies: A Source-level Cross-framework Model Conversion Approach](/papers/ModelX.pdf)   
 **FSE 2025**   
