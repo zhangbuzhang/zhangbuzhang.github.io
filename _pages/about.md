@@ -36,7 +36,7 @@ Advisor: [Tianyin Xu](https://tianyin.github.io/)
 
 News
 ======
-* Invited to serve as Reviewer of Automated Software Engineering (Journal) and Journal of Software (软件学报).   
+* Invited to serve as Reviewer of [Automated Software Engineering (Journal)](https://link.springer.com/journal/10515) and [Journal of Software (软件学报)](https://www.jos.org.cn/jos/home).   
 
 * Served as PC member of [OSDI/ATC 2025 AE](https://www.usenix.org/conference/osdi25/call-for-artifacts).
 
@@ -46,7 +46,7 @@ News
 
 * Our works on LLM Obfuscation benchmark and DBMS differential testing won **<font color="red">2 ACM SIGSOFT Distinguished Paper Award</font>** on ICSE 2025.
 
-* Invited to serve as Reviewer of ACM Transactions on Computer Systems.
+* Invited to serve as Reviewer of [ACM Transactions on Computer Systems](https://dl.acm.org/journal/tocs).
 
 * Our works on configuration understanding won **<font color="red">APSEC'24 Distinguished Paper Award</font>**. 
 
