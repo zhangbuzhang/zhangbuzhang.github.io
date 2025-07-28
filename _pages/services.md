@@ -19,4 +19,4 @@ Journals
 
 [ACM Transactions on Computer Systems (TOCS)](https://dl.acm.org/journal/tocs)      
 [Automated Software Engineering (ASE)](https://link.springer.com/journal/10515)     
-[Journal of Software (JOS)](https://www.jos.org.cn/jos/home)     
+[Journal of Software (软件学报)](https://www.jos.org.cn/jos/home)     

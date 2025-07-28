@@ -36,6 +36,7 @@ Advisor: [Tianyin Xu](https://tianyin.github.io/)
 
 News
 ======
+* Invited to serve as Reviewer of Automated Software Engineering (Journal) and Journal of Software (软件学报).   
 
 * Served as PC member of [OSDI/ATC 2025 AE](https://www.usenix.org/conference/osdi25/call-for-artifacts).
 
