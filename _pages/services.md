@@ -18,4 +18,5 @@ Journals
  (**<font color="red">default = Reviewer</font>**): 
 
 [ACM Transactions on Computer Systems (TOCS)](https://dl.acm.org/journal/tocs)      
-[Automated Software Engineering (ASE)](https://link.springer.com/journal/10515)   
+[Automated Software Engineering (ASE)](https://link.springer.com/journal/10515)     
+[Journal of Software (JOS)](https://www.jos.org.cn/jos/home)     
