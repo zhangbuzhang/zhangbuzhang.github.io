@@ -36,6 +36,8 @@ Advisor: [Tianyin Xu](https://tianyin.github.io/)
 
 News
 ======
+* Honored to be selected as a member of [Huang Danian Teaching Team](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202509/t20250905_1411955.html) (Faculty Team of Computer Science and Technology in NUDT).   
+
 * Invited to serve as Reviewer of [Automated Software Engineering (Journal)](https://link.springer.com/journal/10515) and [Journal of Software (软件学报)](https://www.jos.org.cn/jos/home).   
 
 * Served as PC member of [OSDI/ATC 2025 AE](https://www.usenix.org/conference/osdi25/call-for-artifacts).
@@ -47,6 +49,4 @@ News
 * Our works on LLM Obfuscation benchmark and DBMS differential testing won **<font color="red">2 ACM SIGSOFT Distinguished Paper Award</font>** on ICSE 2025.
 
 * Invited to serve as Reviewer of [ACM Transactions on Computer Systems](https://dl.acm.org/journal/tocs).
-
-* Our works on configuration understanding won **<font color="red">APSEC'24 Distinguished Paper Award</font>**. 
 
