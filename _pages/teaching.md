@@ -1,10 +1,10 @@
 ---
-#title: "Teaching"
+title: "Courses"
 permalink: /teaching/
 author_profile: true
 ---
 
-# Courses
+
 
 I'm currently teaching **Operating System** and **Introduction to Computing**. I list some very interesting student comments(in Chinese) for fun.   
 [Operating System](/OS24_fall/)   
