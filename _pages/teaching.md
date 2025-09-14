@@ -6,9 +6,7 @@ author_profile: true
 
 
 
-I'm currently teaching **Operating System** and **Introduction to Computing**. I list some very interesting student comments(in Chinese) for fun.   
-[Operating System](/OS24_fall/)   
-[Introduction to Computing](/PIntro24_fall/)    
+I'm currently teaching **Operating System** and **Introduction to Computing**.    
 
 
 * **Operating System**: 24 Fall, 25 Spring, 25 Fall   
@@ -16,6 +14,10 @@ I'm currently teaching **Operating System** and **Introduction to Computing**. I
 * **Introduction to Computing (python)**: 24 Fall, 25 Fall    
 
 * **Introduction to Computing (C++)**: 25 Spring       
+
+I list some very interesting student comments(in Chinese) for fun.    
+[Operating System](/OS24_fall/)   
+[Introduction to Computing](/PIntro24_fall/)    
 
 
 # Competition
