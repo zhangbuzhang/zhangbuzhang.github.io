@@ -12,10 +12,10 @@ I am an Assistant Professor in the College of Computer Science at National Unive
 Research Interests
 ======
 * Configuration Management     
-[APSEC'24](/papers/APSEC24.pdf), [ICSE'21](https://arxiv.org/pdf/2102.07052), [ICPC'21](https://arxiv.org/pdf/2103.11561)
+[APSEC'24](/papers/APSEC24.pdf), [ICSE'21](https://arxiv.org/pdf/2102.07052), [ICPC'21](https://arxiv.org/pdf/2103.11561), [JOC'25](/papers/JOC2025.pdf)   
 
-* AI4SE  
-[ICSE'25 A](https://arxiv.org/pdf/2412.08109), [ICLR'24](https://arxiv.org/pdf/2309.16298), [FSE'25](/papers/FSE25_Error.pdf)   
+* AI4SE/SE4AI  
+[ICSE'25 A](https://arxiv.org/pdf/2412.08109), [ICLR'24](https://arxiv.org/pdf/2309.16298), [FSE'25 A](/papers/FSE25_Error.pdf), [FSE'25 B](/papers/ModelX.pdf)    
 
 * Software Testing   
 [ICSE'25 B](/papers/ICSE25B.pdf), [ISSTA'21](https://drive.google.com/file/d/1rGm5U5JLvpjkC-hLxOdOO5i2OqOnsg39/view?pli=1)   
@@ -36,6 +36,7 @@ Advisor: [Tianyin Xu](https://tianyin.github.io/)
 
 News
 ======
+
 * Honored to be selected as a member of [Huang Danian Teaching Team](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202509/t20250905_1411955.html) (Faculty Team of Computer Science and Technology in NUDT).   
 
 * Invited to serve as Reviewer of [Automated Software Engineering (Journal)](https://link.springer.com/journal/10515) and [Journal of Software (软件学报)](https://www.jos.org.cn/jos/home).   
