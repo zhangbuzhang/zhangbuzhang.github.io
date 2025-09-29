@@ -17,6 +17,7 @@ Journals
 ======
  (**<font color="red">default = Reviewer</font>**): 
 
-[ACM Transactions on Computer Systems (TOCS)](https://dl.acm.org/journal/tocs)      
+[ACM Transactions on Computer Systems (TOCS)](https://dl.acm.org/journal/tocs)    
+[ACM Transactions on Software Engineering and Methodology (TOSEM)](https://dl.acm.org/journal/tosem)    
 [Automated Software Engineering (ASE)](https://link.springer.com/journal/10515)     
-[Journal of Software (软件学报)](https://www.jos.org.cn/jos/home)     
+[Journal of Software (JOS)](https://www.jos.org.cn/jos/home)     
