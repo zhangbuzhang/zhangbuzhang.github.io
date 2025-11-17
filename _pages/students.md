@@ -19,4 +19,18 @@ PhD Students
 Master Students
 ======
 
-* Zhizheng Zheng (2024-): Configuration Test Generation
+* Zhizheng Zheng (2024-): Configuration Testing
+* Yingjie Wang (2025-): Kernel Testing
+* Kai He (2025-): Code Generation for domain software
+* Zhenlin Gao (2025-): Code Generation for domain software
+
+Undergrad Stuydents
+======
+
+* Yitong Liu
+* Zheng Fang
+* Gang Luo
+* Yutong Yang
+* Jiaxin Chen
+* Chang Liu
+

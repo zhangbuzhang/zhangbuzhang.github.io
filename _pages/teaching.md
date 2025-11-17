@@ -26,6 +26,7 @@ I serve as a coach/advisor for some competitions. The following are the national
 
 2025: 
 
+* ICPC亚洲区域赛(沈阳站)金奖\*2
 * 蓝桥杯国赛一等奖[(优秀指导教师)](/files/蓝桥杯2025.jpg)
 * 天梯赛全国个人一等奖\*2
 * [CSP认证全国高校第三](https://www.cspro.org/cms/show.action?code=publish_4028807662f1ccee0162f55d6abc0037&siteid=100000&newsid=fceb1db8528b496cafb5c2e77e27508a&channelid=0000000109)
