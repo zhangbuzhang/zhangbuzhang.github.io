@@ -24,7 +24,7 @@ Master Students
 * Kai He (2025-): Code Generation for domain software
 * Zhenlin Gao (2025-): Code Generation for domain software
 
-Undergrad Stuydents
+Undergrad Students
 ======
 
 * Yitong Liu
