@@ -21,4 +21,5 @@ Journals
 [ACM Transactions on Computer Systems (TOCS)](https://dl.acm.org/journal/tocs)    
 [ACM Transactions on Software Engineering and Methodology (TOSEM)](https://dl.acm.org/journal/tosem)    
 [Automated Software Engineering (ASE)](https://link.springer.com/journal/10515)     
+[Knowledge and Information Systems (KAIS)](https://link.springer.com/journal/10115)    
 [Journal of Software (JOS)](https://www.jos.org.cn/jos/home)     
