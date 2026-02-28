@@ -9,6 +9,7 @@ I'm currently mentoring the following students:
 PhD Students
 ======
 
+* Xingpei Li (2022-): DL model convention
 * Chaopeng Luo (2023-): Whitebox Configuration Tuning
 * Liqian Chen (2024-): Understanding and Detecting Threshold-related Bug
 * Yifan Xie (2024-): Software Compatibility Issue   
