@@ -4,6 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+2026
+======
+[LatVision: Attention-Driven Dual-Layer Prediction Model for Persisting Tail Latency in SSDs and HDDs](https://dl.acm.org/doi/10.1145/3800950)    
+**ACM Transactions on Design Automation of Electronic Systems**   
+Linxiao Bai, Zhijie Jiang, **Yuanliang Zhang (Corresponding)**, Haoran Liu, Xiangbing Huang, Wang Li, Bin Lin    
+[Paper](https://dl.acm.org/doi/10.1145/3800950)   
+
 2025
 ======
 
@@ -36,7 +43,7 @@ Ying Fu, Zhiyong Wu, **Yuanliang Zhang**, Jie Liang, Jingzhou Fu, Yu Jiang, Shan
 
 [基础软件性能缺陷检测研究综述](/papers/JOC2025.pdf)   
 **计算机学报**   
-何浩辰, 李姗姗, 贾周阳, 姚懿恒, 张元良, 王戟, 廖湘科   
+何浩辰, 李姗姗, 贾周阳, 姚懿恒, **张元良**, 王戟, 廖湘科   
 [Paper](/papers/JOC2025.pdf)
 
 [MetaCoder: Generating Code from Multiple Perspectives](/papers/MetaCoder.pdf)   
