@@ -4,11 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+(* = co-first, # = corresponding)
+
 2026
 ======
 [LatVision: Attention-Driven Dual-Layer Prediction Model for Persisting Tail Latency in SSDs and HDDs](https://dl.acm.org/doi/10.1145/3800950)    
 **ACM Transactions on Design Automation of Electronic Systems**   
-Linxiao Bai, Zhijie Jiang, **Yuanliang Zhang (Corresponding)**, Haoran Liu, Xiangbing Huang, Wang Li, Bin Lin    
+Linxiao Bai, Zhijie Jiang, **Yuanliang Zhang\#**, Haoran Liu, Xiangbing Huang, Wang Li, Bin Lin    
 [Paper](https://dl.acm.org/doi/10.1145/3800950)   
 
 2025
@@ -16,7 +18,7 @@ Linxiao Bai, Zhijie Jiang, **Yuanliang Zhang (Corresponding)**, Haoran Liu, Xian
 
 [Error Delayed is Not Error Handled: Understanding and Fixing Propagated Error-Handling Bugs](/papers/FSE25_Error.pdf)   
 **FSE 2025**   
-Haoran Liu, Shanshan Li, Zhouyang Jia, **Yuanliang Zhang**, Linxiao Bai, Si Zheng, Xiaoguang Mao, Xiangke Liao   
+Haoran Liu, Shanshan Li, Zhouyang Jia, **Yuanliang Zhang\#**, Linxiao Bai, Si Zheng, Xiaoguang Mao, Xiangke Liao   
 [Paper](/papers/FSE25_Error.pdf) | [Code](https://github.com/EH-Fixer/EH-Fixer) | [Slides](/slides/EH-Digger.pdf)  
 
 [Bridging Operator Semantic Inconsistencies: A Source-level Cross-framework Model Conversion Approach](/papers/ModelX.pdf)   
@@ -56,7 +58,7 @@ Xin Chen, Zhijie Jiang, Yong Guo, Zhouyang Jia, Si Zheng, **Yuanliang Zhang**, S
 
 [Who is in Charge here? Understanding How Runtime Configuration Affects Software along with Variables&Constants](/papers/APSEC24.pdf)   
 **APSEC 2024**   
-Chaopeng Luo, **Yuanliang Zhang (co-first)**, Haochen He, Zhouyang Jia, Teng Wang, Shulin Zhou, Si Zheng, Shanshan Li   
+Chaopeng Luo, **Yuanliang Zhang\***, Haochen He, Zhouyang Jia, Teng Wang, Shulin Zhou, Si Zheng, Shanshan Li   
 [Paper](/papers/APSEC24.pdf) | [Code](https://github.com/PCVAnonymous/PCVStudy) | [Slides](/slides/pcv_Study_Talk.pdf)    
 **<font color="red">Distinguished Paper Award</font>** ([PDF](/awards/APSEC24.pdf))
 
@@ -94,7 +96,7 @@ Shulin Zhou, Zhijie Jiang, Shanshan Li, Xiaodong Liu, Zhouyang Jia, **Yuanliang 
 
 [Clone-based code method usage pattern mining](https://arxiv.org/pdf/2109.13099)   
 **ICPC 2022**   
-Zhipeng Xue, **Yuanliang Zhang (co-first)**, Rulin Xu   
+Zhipeng Xue, **Yuanliang Zhang\***, Rulin Xu   
 [Paper](https://arxiv.org/pdf/2109.13099)  
 
 
