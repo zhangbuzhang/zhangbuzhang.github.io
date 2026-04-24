@@ -10,7 +10,7 @@ Conferences
 ======   
 (**<font color="red">default = PC member</font>**):   
 
-2026 [SANER](https://conf.researchr.org/track/saner-2026/saner-2026-papers), [ChinaSys Spring](/404/)   
+2026 [SANER](https://conf.researchr.org/track/saner-2026/saner-2026-papers), [ChinaSys Spring](https://mp.weixin.qq.com/s/OzE0zP8Uo8uWTX7uM_Yfkw)   
 2025 [OSDI AE](https://www.usenix.org/conference/osdi25/call-for-artifacts), [ATC AE](https://www.usenix.org/conference/atc25/call-for-artifacts), [APSEC](https://conf.researchr.org/home/apsec-2025), [EXPRESS (ISSTA Workshop)](https://conf.researchr.org/home/issta-2025/express-2025)   
 2024 [SEAMS AE](https://conf.researchr.org/home/seams-2024)   
 
