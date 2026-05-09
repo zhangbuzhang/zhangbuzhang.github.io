@@ -13,7 +13,7 @@ PhD Students
 * Chaopeng Luo (2023-): Whitebox Configuration Tuning
 * Liqian Chen (2024-): Understanding and Detecting Threshold-related Bug
 * Yifan Xie (2024-): Software Compatibility Issue   
-**<font color="red">国家奖学金</font>**    
+**<font color="red">National Scholarship</font>**    
 * Xiangbin Huang (2024-): HDL code generation
 * Xiaofan Sun (2025-): LLM-based Code Generation
 
@@ -42,10 +42,10 @@ Allumni
 
 * Zhizheng Zheng, M.Sc(2024-2026): Configuration Testing     
 **First job:** Bytdance, Research Engineer (AI4SE) 
-* Yulin Liu, B.Sc
-**Next Dest:** PhD in NUDT  
+* Yulin Liu, B.Sc   
+**Next Dest:** PhD in NUDT   
 **<font color="red">(ICPC Asia Regional Contest: Gold Medal)</font>**    
-**<font color="red">第一届国防科大高地星火奖学金(国防科大最高奖学金)</font>**   
+**<font color="red">Xinghuo Scholarship(Highest Honor in NUDT)</font>**   
 * Huaiyuan Song, B.Sc   
-**Next Dest:** PhD in NUDT 
+**Next Dest:** PhD in NUDT    
 **<font color="red">(ICPC Asia Regional Contest: Gold Medal)</font>**   
