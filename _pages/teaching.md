@@ -24,6 +24,10 @@ I list some very interesting student comments(in Chinese) for fun.
 
 I serve as a coach/advisor for some competitions. The following are the national A-level competition that my students have achieved.
 
+2026:
+
+* 天梯赛全国个人一等奖\*5
+
 2025: 
 
 * ICPC亚洲区域赛(沈阳站)金奖\*2
