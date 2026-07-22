@@ -8,6 +8,11 @@ author_profile: true
 
 2026
 ======
+[PerfInliner: A Cost Model Guided Machine Learning Inlining Framework to Optimize Performance](/404/)   
+**CCF Transactions on High Performance Computing**   
+Xudong Wang, Jing Xie, Lin Peng, Yuanliang Zhang, Chun Huang   
+[Paper](/404/)   
+
 [LatVision: Attention-Driven Dual-Layer Prediction Model for Persisting Tail Latency in SSDs and HDDs](https://dl.acm.org/doi/10.1145/3800950)    
 **ACM Transactions on Design Automation of Electronic Systems**   
 Linxiao Bai, Zhijie Jiang, **Yuanliang Zhang\#**, Haoran Liu, Xiangbing Huang, Wang Li, Bin Lin    
