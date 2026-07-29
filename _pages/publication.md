@@ -8,9 +8,15 @@ author_profile: true
 
 2026
 ======
+[CTForge: Automatically Generating Test Suites for Software Configuration](/404/)   
+**ASE 2026**   
+**Yuanliang Zhang**, Zhizheng Zheng, Shanshan Li, Zhouyang Jia, Chaopeng Luo, Liqian Chen, Zhenbang Chen, Ji Wang, Xiangke Liao      
+[Paper](/404/) | [Code](https://zenodo.org/records/21359932) | [Slides](/404/)   
+
+
 [PerfInliner: A Cost Model Guided Machine Learning Inlining Framework to Optimize Performance](/404/)   
 **CCF Transactions on High Performance Computing**   
-Xudong Wang, Jing Xie, Lin Peng, Yuanliang Zhang, Chun Huang   
+Xudong Wang, Jing Xie, Lin Peng, **Yuanliang Zhang**, Chun Huang   
 [Paper](/404/)   
 
 [LatVision: Attention-Driven Dual-Layer Prediction Model for Persisting Tail Latency in SSDs and HDDs](https://dl.acm.org/doi/10.1145/3800950)    
