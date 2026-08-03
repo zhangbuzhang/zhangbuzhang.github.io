@@ -36,11 +36,11 @@ Advisor: [Tianyin Xu](https://tianyin.github.io/)
 
 News
 ======
+* One paper gets accepted by ASE 2026.
+
+* One paper gets accepted by ACM TODAES. Congrats to Lingxiao!
 
 * Honored to be selected as a member of [Huang Danian Teaching Team](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202509/t20250905_1411955.html) (Faculty Team of Computer Science and Technology in NUDT).   
-
 * Two papers get accepted by FSE 2025. Congrats to Haoran and Xingpei!
 
 * Our works on LLM Obfuscation benchmark and DBMS differential testing won **<font color="red">2 ACM SIGSOFT Distinguished Paper Award</font>** on ICSE 2025.
-
-* Our work on configuration-interaction study won **<font color="red">Distinguished Paper Award</font>** on APSEC 2024.
