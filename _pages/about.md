@@ -18,7 +18,7 @@ Research Interests
 [🏆ICSE'25 A](https://arxiv.org/pdf/2412.08109), [ICLR'24](https://arxiv.org/pdf/2309.16298), [FSE'25 A](/papers/FSE25_Error.pdf), [FSE'25 B](/papers/ModelX.pdf)    
 
 * Software Testing   
-[🏆ICSE'25 B](/papers/ICSE25B.pdf), [ISSTA'21](https://drive.google.com/file/d/1rGm5U5JLvpjkC-hLxOdOO5i2OqOnsg39/view?pli=1)   
+[ASE'26](/papers/ASE26.pdf), [🏆ICSE'25 B](/papers/ICSE25B.pdf), [ISSTA'21](https://drive.google.com/file/d/1rGm5U5JLvpjkC-hLxOdOO5i2OqOnsg39/view?pli=1)   
 
 
 Academic Career
