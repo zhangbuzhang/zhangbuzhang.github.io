@@ -26,6 +26,8 @@ I serve as a coach/advisor for some competitions. The following are the national
 
 2026:
 
+* 全国大学生计算机系统能力大赛操作系统功能赛道全国一等奖(优秀指导教师)
+* 蓝桥杯国赛一等奖\*2
 * 天梯赛全国个人一等奖\*5
 
 2025: 

@@ -54,9 +54,9 @@ Ying Fu, Zhiyong Wu, **Yuanliang Zhang**, Jie Liang, Jingzhou Fu, Yu Jiang, Shan
 [Paper](/papers/ICSE25B.pdf) | [Code](https://github.com/Thanos2024/Thanos) | [Slides](/slides/Thanos.pdf)   
 **<font color="red">ACM SIGSOFT Distinguished Paper Award</font>** ([PDF](/awards/Thanos.pdf))
 
-[基础软件性能缺陷检测研究综述](/papers/JOC2025.pdf)   
-**计算机学报**   
-何浩辰, 李姗姗, 贾周阳, 姚懿恒, **张元良**, 王戟, 廖湘科   
+[Survey on Performance Bug Detection in System Software](/papers/JOC2025.pdf)   
+**Journal of Computers**   
+Haochen He, Shanshan Li, Zhouyang jia, Yiheng Yao, **Yuanliang Zhang**, Ji Wang, Xiangke Liao   
 [Paper](/papers/JOC2025.pdf)
 
 [MetaCoder: Generating Code from Multiple Perspectives](/papers/MetaCoder.pdf)   

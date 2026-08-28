@@ -36,6 +36,8 @@ Advisor: [Tianyin Xu](https://tianyin.github.io/)
 
 News
 ======
+* We won the [first prize](/files/OS26.pdf) in the Operating System Design Contest of the China College Students System Ability Competition. Congrats to Jiaxiang, Kai and Gang.   
+
 * One paper gets accepted by ASE 2026.
 
 * One paper gets accepted by ACM TODAES. Congrats to Lingxiao!
